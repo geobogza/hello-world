@@ -1,2 +1,5 @@
 # hello-world
-non interesting repository
+
+Hi there, 
+
+This is just a test!
